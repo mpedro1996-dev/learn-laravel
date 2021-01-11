@@ -11,7 +11,6 @@ class Product extends Model
         "name"=> true,
         "description"=>true,
         "price"=>true,
-        "category_id"=>true 
-
+        "category_id"=>true
     ];
 }
